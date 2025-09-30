@@ -5,11 +5,12 @@ This repository contains two end-to-end **data-to-model pipeline** projects demo
 ---
 
 ## 📂 Repository Structure
+```
 Data_Science_Project/
 │── Subsidy_question.py
 │── Linear_Regression_cars.py
 │── README.md
-
+```
 ---
 
 ## 𝟭. 𝗖𝗹𝗮𝘀𝘀𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝗣𝗿𝗼𝗷𝗲𝗰𝘁: 𝗜𝗻𝗰𝗼𝗺𝗲-𝗕𝗮𝘀𝗲𝗱 𝗦𝘂𝗯𝘀𝗶𝗱𝘆 𝗣𝗿𝗲𝗱𝗶𝗰𝘁𝗶𝗼𝗻  
